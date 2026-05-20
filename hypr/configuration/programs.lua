@@ -1,0 +1,5 @@
+local terminal    = "kitty"
+local fileManager = "dolphin"
+local menu        = "rofi"
+local hyprpaper   = "hyprpaper"
+local waybar      = "waybar"
